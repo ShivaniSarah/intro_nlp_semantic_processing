@@ -1,5 +1,9 @@
 
  # Welcome to Semantic Processing Module
+ 
+ Wordnet: https://wordnet.princeton.edu/
+ Conceptnet: https://conceptnet.io/
+ snomed: https://www.snomed.org/
 
 ## TOC:
 - How to download files?
