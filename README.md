@@ -4,6 +4,9 @@
  Wordnet: https://wordnet.princeton.edu/
  Conceptnet: https://conceptnet.io/
  snomed: https://www.snomed.org/
+ 
+ https://embeddings.macheads101.com/word?word=football
+ 
 
 ## TOC:
 - How to download files?
