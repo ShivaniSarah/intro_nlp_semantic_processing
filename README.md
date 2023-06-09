@@ -7,6 +7,9 @@
  
  https://embeddings.macheads101.com/word?word=football
  
+ 
+ In gensim word2vec , set sg=1 for using skip gram model else 0 will be CBOW model.
+ 
 
 ## TOC:
 - How to download files?
