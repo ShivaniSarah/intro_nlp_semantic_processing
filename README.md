@@ -11,6 +11,9 @@
  IMDB Dataset: https://drive.google.com/drive/u/0/folders/1KUnMvuufvo0yXS23EaI2EMNaq2lt5Ynh
  
  
+ Glove word embedding Dataset: https://github.com/stanfordnlp/GloVe
+ 
+ 
  In gensim word2vec , set sg=1 for using skip gram model else 0 will be CBOW model.
  
 
