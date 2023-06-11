@@ -8,6 +8,9 @@
  https://embeddings.macheads101.com/word?word=football
  
  
+ IMDB Dataset: https://drive.google.com/drive/u/0/folders/1KUnMvuufvo0yXS23EaI2EMNaq2lt5Ynh
+ 
+ 
  In gensim word2vec , set sg=1 for using skip gram model else 0 will be CBOW model.
  
 
